@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alyn-partners.de/sitemap.xml
